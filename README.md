@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Omelett Recipe Screenshot](./recipe-page-screeenshot.jpg)
+![](./recipe-page-screeenshot.JPG)
 
 ### Links
 
