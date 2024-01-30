@@ -18,12 +18,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./recipe-page-screenshot.jpg)
+![Omelett Recipe Screenshot](./recipe-page-screeenshot.jpg)
 
 ### Links
 
 - Solution URL: [Git Hub Repo](https://github.com/Wolle3008/Omelette-Recipe-Page)
-- Live Site URL: [Recipe Page Live](https://your-live-site-url.com)
+- Live Site URL: [Live view](https://wolle3008.github.io/Omelette-Recipe-Page/)
 
 ## My process
 
